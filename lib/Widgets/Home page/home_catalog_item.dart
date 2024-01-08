@@ -3,6 +3,7 @@ import 'package:classico/models/catalog.dart';
 import 'package:classico/pages/HomePage.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:velocity_x/velocity_x.dart';
 
 class CatalogItem extends StatelessWidget {
   final Item catalog;
@@ -16,7 +17,8 @@ class CatalogItem extends StatelessWidget {
       child: Container(
         padding: EdgeInsets.all(16),
         decoration: BoxDecoration(
-            color: Colors.white, borderRadius: BorderRadius.circular(12.r)),
+            color: context.cardColor,
+            borderRadius: BorderRadius.circular(12.r)),
         height: 120.h,
         child: Row(
           children: [
@@ -35,13 +37,13 @@ class CatalogItem extends StatelessWidget {
                     catalog.name,
                     style: TextStyle(
                         fontWeight: FontWeight.w600,
-                        color: Colors.orangeAccent,
+                        color: Colors.black,
                         fontSize: 13.sp),
                   ),
                   Text(
                     catalog.desc,
                     style: TextStyle(
-                      color: Colors.black54,
+                      color: Colors.black,
                       fontSize: 14.sp,
                     ),
                   ),

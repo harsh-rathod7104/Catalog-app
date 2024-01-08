@@ -1,3 +1,4 @@
+import 'package:classico/Widgets/thems.dart';
 import 'package:classico/models/catalog.dart';
 import 'package:classico/pages/HomePage.dart';
 import 'package:classico/pages/cart_page.dart';
@@ -20,8 +21,10 @@ class MyApp extends StatelessWidget {
       designSize: const Size(360, 690),
       builder: (_, child) {
         return MaterialApp(
+          themeMode: ThemeMode.system,
           debugShowCheckedModeBanner: false,
           // home: LoginPage(),
+          darkTheme: MyTheme.darkTheme(context),
           theme: ThemeData(
             useMaterial3: false,
             fontFamily: GoogleFonts.lato().fontFamily,

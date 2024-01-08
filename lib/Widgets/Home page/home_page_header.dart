@@ -12,13 +12,8 @@ class CatalogHeader extends StatelessWidget {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
-        "Laxmi cheat Product"
-            .text
-            .xl3
-            .bold
-            .color(MyTheme.darkBluishColor)
-            .make(),
-        "21 din me item doubble".text.xl2.make()
+        "Laxmi cheat Product".text.xl3.bold.color(context.primaryColor).make(),
+        "21 din me item doubble".text.color(context.primaryColor).xl2.make()
       ],
     );
   }

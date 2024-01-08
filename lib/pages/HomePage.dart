@@ -54,7 +54,7 @@ class _HomePageState extends State<HomePage> {
           ),
         ),
         appBar: AppBar(),
-        backgroundColor: MyTheme.creamColor,
+        backgroundColor: context.canvasColor,
         body: SafeArea(
           child: Container(
             padding: Vx.m32.w,

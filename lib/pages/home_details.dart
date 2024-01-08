@@ -35,7 +35,7 @@ class HomeDetailsPage extends StatelessWidget {
               ),
               onPressed: () {},
               child: Text(
-                'Buy',
+                'Add to Cart',
                 style: TextStyle(fontSize: 14.sp),
               ),
             )
