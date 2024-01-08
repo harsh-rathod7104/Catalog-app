@@ -1,0 +1,228 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 12 Pro",
+            "desc": "Apple iPhone 12th generation",
+            "price": 110000,
+            "color": "#33505a",
+            "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-pro-blue-hero?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1604021661000"
+        },
+        {
+            "id": 2,
+            "name": "Pixel 5",
+            "desc": "Google Pixel phone 5th generation",
+            "price": 26999,
+            "color": "#00ac51",
+            "image": "https://www.telstra.com.au/content/dam/tcom/lego/2020/plans-devices/mobiles/google-pixel-5/shared-google-pixel-5-black-05-900x1200.png"
+        },
+        {
+            "id": 3,
+            "name": "M1 Macbook Air",
+            "desc": "Apple Macbook air with apple silicon",
+            "price": 250000,
+            "color": "#e0bfae",
+            "image": "https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP825/macbookair.png"
+        },
+        {
+            "id": 4,
+            "name": "Playstation 5",
+            "desc": "Sony Playstation 5th generation",
+            "price": 36000,
+            "color": "#544ee4",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk47kuxRYKTHLG2doT-5QlnJnrHxsorg_F6g&usqp=CAU"
+        },
+        {
+            "id": 5,
+            "name": "Airpods Pro",
+            "desc": "Apple Aipods Pro 1st generation",
+            "price": 12000,
+            "color": "#e3e4e9",
+            "image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/61SUj2aKoEL._AC_UY327_FMwebp_QL65_.jpg"
+        },
+        {
+            "id": 6,
+            "name": "iPad Pro",
+            "desc": "Apple iPad Pro 2020 edition",
+            "price": 45000,
+            "color": "#f73984",
+            "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-12-select-wifi-silver-202003_FMT_WHH?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1583551131102"
+        },
+        {
+            "id": 75000,
+            "name": "Galaxy S21 Ultra",
+            "desc": "Samsung Galaxy S21 Ultra 2021 edition",
+            "price": 1299,
+            "color": "#1c1c1c",
+            "image": "https://lh3.googleusercontent.com/qRQPjHrhRVIs-xnfNSyiPXOH2vH97ylMacgbTKebqJtRfNH3LlYo8pN-5igsLDWUH62tGl5zNpTsl5xd8SprzGmXoCEmWFOi2-2cQVGS-r3PaRXHt62DmJHq-jrYX0UQvWZ9BA=s800-c"
+        },
+        {
+            "id": 8,
+            "name": "Led Monitor ",
+            "desc": "1440 X 900 Pixels| with Hdmi + Vga Port Input ",
+            "price": 32000,
+            "color": "#7c95eb",
+            "image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/41+qh4TdrRL._SY300_SX300_.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Internal solid state drives",
+            "desc": "Crucial BX500 500GB 2.5-inch ",
+            "price": 4999,
+            "color": "#7c95eb",
+            "image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/31vCayLbhsL._MCnd_AC_.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Laptop Tabletop Stand",
+            "desc": "Patented Riser Ventilated Portable ",
+            "price": 899,
+            "color": "#7c95eb",
+            "image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/51aYKwgu-GL._SX300_SY300_QL70_FMwebp_.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Galaxy S21",
+            "desc": "Samsung Galaxy S21 2021 edition",
+            "price": 78000,
+            "color": "#7c95eb",
+            "image": "https://images.samsung.com/is/image/samsung/p6pim/za/galaxy-s21/gallery/za-clear-cover-galaxy-s21-5g-ef-qg991ttegww-363168624?$720_576_PNG$"
+        },
+        {
+            "id": 12,
+            "name": "Gaming Controller",
+            "desc": "Xbox One, Black (Officially Licensed)",
+            "price": 2999,
+            "color": "#7c95eb",
+            "image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/41I-lDXqzbS._SY300_SX300_QL70_FMwebp_.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Keyboard ",
+            "desc": "Amazon Basics Wireless Bluetooth",
+            "price": 4600,
+            "color": "#7c95eb",
+            "image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/61EaqltTYeL._SX522_.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Headphones  ",
+            "desc": "boAt Rockerz 450R On-Ear Headphones with 15 Hours",
+            "price": 1600,
+            "color": "#7c95eb",
+            "image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/61LuTKQUDwL._SX569_.jpg"
+        },
+        {
+            "id": 1,
+            "name": "iPhone 12 Pro",
+            "desc": "Apple iPhone 12th generation",
+            "price": 100000,
+            "color": "#33505a",
+            "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-pro-blue-hero?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1604021661000"
+        },
+        {
+            "id": 2,
+            "name": "Pixel 5",
+            "desc": "Google Pixel phone 5th generation",
+            "price": 699,
+            "color": "#00ac51",
+            "image": "https://www.telstra.com.au/content/dam/tcom/lego/2020/plans-devices/mobiles/google-pixel-5/shared-google-pixel-5-black-05-900x1200.png"
+        },
+        {
+            "id": 3,
+            "name": "M1 Macbook Air",
+            "desc": "Apple Macbook air with apple silicon",
+            "price": 1099,
+            "color": "#e0bfae",
+            "image": "https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP825/macbookair.png"
+        },
+        {
+            "id": 4,
+            "name": "Playstation 5",
+            "desc": "Sony Playstation 5th generation",
+            "price": 500,
+            "color": "#544ee4",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk47kuxRYKTHLG2doT-5QlnJnrHxsorg_F6g&usqp=CAU"
+        },
+        {
+            "id": 5,
+            "name": "Airpods Pro",
+            "desc": "Apple Aipods Pro 1st generation",
+            "price": 200,
+            "color": "#e3e4e9",
+            "image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/61SUj2aKoEL._AC_UY327_FMwebp_QL65_.jpg"
+        },
+        {
+            "id": 6,
+            "name": "iPad Pro",
+            "desc": "Apple iPad Pro 2020 edition",
+            "price": 799,
+            "color": "#f73984",
+            "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-12-select-wifi-silver-202003_FMT_WHH?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1583551131102"
+        },
+        {
+            "id": 7,
+            "name": "Galaxy S21 Ultra",
+            "desc": "Samsung Galaxy S21 Ultra 2021 edition",
+            "price": 1299,
+            "color": "#1c1c1c",
+            "image": "https://lh3.googleusercontent.com/qRQPjHrhRVIs-xnfNSyiPXOH2vH97ylMacgbTKebqJtRfNH3LlYo8pN-5igsLDWUH62tGl5zNpTsl5xd8SprzGmXoCEmWFOi2-2cQVGS-r3PaRXHt62DmJHq-jrYX0UQvWZ9BA=s800-c"
+        },
+        {
+            "id": 8,
+            "name": "Led Monitor ",
+            "desc": "1440 X 900 Pixels| with Hdmi + Vga Port Input ",
+            "price": 3169,
+            "color": "#7c95eb",
+            "image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/41+qh4TdrRL._SY300_SX300_.jpg"
+        },
+        {
+            "id": 9,
+            "name": " solid state drives",
+            "desc": "Crucial BX500 500GB 2.5-inch SATA",
+            "price": 2739,
+            "color": "#7c95eb",
+            "image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/31vCayLbhsL._MCnd_AC_.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Tabletop Stand",
+            "desc": "Compatible with MacBook Notebook Tablet",
+            "price": 899,
+            "color": "#7c95eb",
+            "image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/51aYKwgu-GL._SX300_SY300_QL70_FMwebp_.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Galaxy S21",
+            "desc": "Samsung Galaxy S21 2021 edition",
+            "price": 899,
+            "color": "#7c95eb",
+            "image": "https://images.samsung.com/is/image/samsung/p6pim/za/galaxy-s21/gallery/za-clear-cover-galaxy-s21-5g-ef-qg991ttegww-363168624?$720_576_PNG$"
+        },
+        {
+            "id": 12,
+            "name": "Gaming Controller",
+            "desc": "Xbox One, Black (Officially Licensed)",
+            "price": 899,
+            "color": "#7c95eb",
+            "image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/41I-lDXqzbS._SY300_SX300_QL70_FMwebp_.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Keyboard ",
+            "desc": "Wireless Bluetooth Multi-Device Keyboard ",
+            "price": 199,
+            "color": "#7c95eb",
+            "image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/61EaqltTYeL._SX522_.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Headphones  ",
+            "desc": "boAt Rockerz 450R On-Ear Headphones with 15 Hours",
+            "price": 319,
+            "color": "#7c95eb",
+            "image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/61LuTKQUDwL._SX569_.jpg"
+        }
+    ]
+}
