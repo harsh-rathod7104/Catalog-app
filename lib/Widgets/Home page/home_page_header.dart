@@ -18,7 +18,7 @@ class CatalogHeader extends StatelessWidget {
             .bold
             .color(MyTheme.darkBluishColor)
             .make(),
-        "21 din me item doubble".text.xl2.make()
+        "Catalog-app".text.xl2.make()
       ],
     );
   }
